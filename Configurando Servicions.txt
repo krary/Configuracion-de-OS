@@ -11,3 +11,16 @@ Panel de control<<Region<<Administrador = con esto cambiar la confi Regional del
                 
                 Abrir las variables del Entorno <<Nueva-Nombre-ruta
                 Para ir :W+R <<%NOMBRE%
+                
+                
+                
+Como ejecutar un block de notas en cada inicio de sesion de windows:
+Crea un archivo de bloc de notas en tu computadora. Para hacerlo, haz clic derecho en cualquier parte del escritorio y selecciona "Nuevo" y luego "Documento de texto". Abre el archivo y escribe lo que quieras.
+
+Guarda el archivo con una extensión .bat. Para hacerlo, haz clic en "Archivo" en la parte superior izquierda del Bloc de notas y selecciona "Guardar como". En el campo "Nombre", escribe un nombre que sea fácil de recordar y luego añade ".bat" al final. Por ejemplo, "ejecutar.bat".
+
+Abre el menú de inicio y busca "Ejecutar". Haz clic en la opción "Ejecutar" para abrir el cuadro de diálogo.
+
+Escribe "shell:startup" en el cuadro de diálogo y pulsa Enter. Esto te llevará a la carpeta de inicio de Windows.
+
+Copia y pega el archivo .bat que creaste en esta carpeta. Ahora, cada vez que inicies tu laptop, se ejecutará el archivo .bat que creaste.
