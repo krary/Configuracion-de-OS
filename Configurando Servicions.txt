@@ -1,0 +1,7 @@
+Conociendo el Systema
+
+servicio = con esto podemos iniciar nuestro demonio
+
+msconfig = con esto podemos cambiar  el tipo de inicio 
+
+Panel de control<<Region<<Administrador = con esto cambiar la confi Regional del system
