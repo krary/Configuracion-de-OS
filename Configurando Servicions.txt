@@ -5,3 +5,9 @@ servicio = con esto podemos iniciar nuestro demonio
 msconfig = con esto podemos cambiar  el tipo de inicio 
 
 Panel de control<<Region<<Administrador = con esto cambiar la confi Regional del system
+
+
+                VARIABLES DE ENTORNO
+                
+                Abrir las variables del Entorno <<Nueva-Nombre-ruta
+                Para ir :W+R <<%NOMBRE%
